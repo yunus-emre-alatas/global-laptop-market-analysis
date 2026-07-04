@@ -17,5 +17,5 @@ Verinin işlenmesi ve analiz edilmesi süreçlerinin ardından oluşturulan Powe
 
 ## 📂 Veri İşleme Süreçleri
 1. **Veri Toplama (Raw Data):** Kaggle üzerinden alınan ham veri seti (`laptop_market_raw_data.csv`) depoya dahil edilmiştir.
-2. **SQL ile Veri Temizleme & Dönüştürme:** Ham verideki karmaşık birimler (TB-GB dönüşümleri) ve sütun hataları SQL sorguları ile düzeltilerek analiz edilebilir hale getirilmiştir.
+2. **Excel & Power Query ile Veri Temizleme:** Ham verideki karmaşık birimler (TB-GB dönüşümleri) ve tutarsız veri tipleri, Excel ve Power BI (Power Query) araçları kullanılarak temizlenmiş, veriler analiz ve modelleme için standart hale getirilmiştir.
 3. **Analiz & Görselleştirme:** Temizlenen veri seti Power BI'a aktarılarak, yöneticilerin karar alma süreçlerine yardımcı olacak kurumsal bir rapor panosu haline getirilmiştir.
